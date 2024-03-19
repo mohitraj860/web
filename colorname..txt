@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h3 style=“color: orange;”>heading</h3>
+<p style=“color: slateblue;”>my name is Mohit raj</p>
+<p style=“color: dodgerblue;”>the early inventors of computer Additionally, she was the first one to use an
+algorithm.</p>
+</body>
+</html>

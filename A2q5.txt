@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body{
+        Background-color:grey;
+      }
+      ul{
+        text-align:left;
+        list-style-type:none;
+        padding:2px;
+        width:70px;
+        height:900px;
+        background-color:lightblue;
+      }
+      li a{
+        display:block;
+        color:red;
+        padding: 6px 12px;
+
+      }
+      li a:hover{
+
+        background-color:green;
+        color:blue;
+        
+      }
+
+
+
+    </style>
+    
+    
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+   <h1 style="text-align:center; color:lightblue;"><u> Menu Bar</u></h1>
+   <ul>
+     <li>
+      <a href="#home"> Home </a>
+     </li> 
+     <li>
+      <a href="#services"> About </a>
+    </li>
+    <li>
+      <a href="#vision"> Vision </a> 
+    </li>
+    <li>
+      <a href="#carrers"> Credits </a>
+    </li>
+  </body>
+</html>
